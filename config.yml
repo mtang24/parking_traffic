@@ -1,0 +1,3 @@
+remote_theme: jekyll/minima@d4d779a
+plugins:
+  - jekyll-remote-theme
