@@ -1,4 +1,3 @@
-# Analysis of UCSD Parking Occupancy and Local Traffic Collisions
 
 # Permissions
 
